@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/guava.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/guava-22.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/voice-cmu-rms-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/libraries/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/artoolkitplus.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/artoolkitplus-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/artoolkitplus-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/ffmpeg-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/flandmark.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/flandmark-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/flandmark-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/flycapture.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/flycapture-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/flycapture-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/javacpp.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/javacv.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/javacv-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libdc1394.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libdc1394-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libdc1394-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libfreenect.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libfreenect2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libfreenect2-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libfreenect2-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libfreenect-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/libfreenect-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/librealsense.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/librealsense-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/librealsense-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/opencv.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/opencv-341.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/opencv-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/videoinput.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/videoinput-platform.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Main_Project/resource/opencvlib/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
